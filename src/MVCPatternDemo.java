@@ -12,7 +12,8 @@ public class MVCPatternDemo {
         controller.updateView();
 
         //update model data
-        controller.setStudentName("John");
+        controller.setStudentName("Made");
+        
 
         controller.updateView();
     }
