@@ -1,6 +1,7 @@
 public class MVCPatternDemo {
     public static void main(String[] args) {
 
+        System.out.println("prueba del mvc y git");
         //fetch student record based on his roll no from the database
         Student model  = retriveStudentFromDatabase();
 
